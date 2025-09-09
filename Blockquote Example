@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <tittle>Paragraph Example</tittle>
+        <meta charset="utf-8">
+    </head>
+    <body><h1>The power of the web</h1>
+        <p>According to Tim Banners-Lee, the inventor of the World Wide Web,</p>
+        <blockquote>
+            The power of the web is in its universally. Access by everyone regardless of disabillity is an essential aspect.
+        </blockquote>
+    </body>
+</html>

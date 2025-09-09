@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <tittle>Heading and List</tittle>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>My Favorite Colors</h1>
+        <dl>
+            <dt>FTP</dt>
+            <dd>File Transfer Protocol is ad protocol used to exchange files between computers on the Internet. </dd>
+            <dt>HTP</dt>
+                <dd>Hypertext Transfer Protocol is the protocol used for exchanging text, graphic images, sound, video, and other multimedia files on the Web. </dd>
+        </dl>
+    </body>
+</html>
